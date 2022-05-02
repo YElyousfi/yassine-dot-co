@@ -35,7 +35,7 @@ const Home: NextPage = () => {
       </main>
       <footer>
         <h4 style={{ textAlign: "center" }}>
-          "Simple can be harder than complex…” - Steve Jobs
+          <i>&quot;Simple can be harder than complex…&quot;</i> - Steve Jobs
         </h4>
       </footer>
     </div>
